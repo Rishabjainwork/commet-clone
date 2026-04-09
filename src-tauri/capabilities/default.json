@@ -1,0 +1,8 @@
+{
+  "identifier": "default",
+  "description": "Default capabilities for Comet browser",
+  "permissions": [
+    "core:default",
+    "shell:allow-open"
+  ]
+}
